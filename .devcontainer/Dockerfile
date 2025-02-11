@@ -27,3 +27,7 @@ RUN dnf -y install sudo nano vim
 RUN echo "${USERNAME} ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers
 
 ## Customization your container after this line ##y
+_
+-
+-
+_ https://github.com/orgs/Marshall-engineers-351023/sso
